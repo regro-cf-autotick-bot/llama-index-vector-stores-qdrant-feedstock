@@ -1,5 +1,5 @@
 context:
-  version: "0.6.0"
+  version: "0.6.1"
   python_min: "3.10"
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/l/llama-index-vector-stores-qdrant/llama_index_vector_stores_qdrant-${{ version }}.tar.gz
-    sha256: f2f06710e5fa39be1c5f14287e6bb124166e9b1745ba0f3c2611add549ee006b
+    sha256: d78850fcc0abc1fd6db9c569acf6e8da62d1b8159a1c8d12e75e6c6cd0774352
   - url: https://raw.githubusercontent.com/run-llama/llama_index/main/LICENSE
     sha256: 24f40b5190fdacabc24ddbb5f76364d15e4f030925220ea300d8a2dd4993c8cb
 
